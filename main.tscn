@@ -71,3 +71,34 @@ material = SubResource("StandardMaterial3D_h2yge")
 transform = Transform3D(1, 0, 0, 0, 0.894107, 0.447853, 0, -0.447853, 0.894107, 0, 3.49932, 8.19924)
 
 [node name="DsOverlay" parent="." instance=ExtResource("1_ig7tw")]
+
+[node name="Quit" type="Button" parent="."]
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -108.0
+offset_top = -113.0
+offset_right = -66.0
+offset_bottom = -82.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Quit"
+
+[node name="ShowHide" type="Button" parent="."]
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = 47.0
+offset_top = -113.0
+offset_right = 89.0
+offset_bottom = -82.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Show/Hide Boxes"
+
+[connection signal="pressed" from="Quit" to="." method="_on_quit_pressed"]
+[connection signal="pressed" from="ShowHide" to="." method="_on_show_hide_pressed"]
