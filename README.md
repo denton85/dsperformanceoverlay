@@ -15,3 +15,5 @@ Then, instantiate the DSOverlay scene wherever you see fit (your player scene, o
 When it's instantiated, you have some options on the right sidebar. Text Color, Background Color, and Font Size are purely visual. The "Selected Overlay" is a dictionary. The default values can be used or removed, and you can add more. Just pick a performance type you want to add, then give it a label and click "Add Key/Value Pair".
 
 <img width="312" height="580" alt="overlay1" src="https://github.com/user-attachments/assets/0182c02d-e22f-41c2-beb4-efb00197e42c" />
+
+If there are any issues, drop by my youtube channel or my twitch stream and let me know! twitch.tv/deadslap and https://www.youtube.com/@deadslapTV
