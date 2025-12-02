@@ -1,6 +1,6 @@
 # DS Performance Overlay
 
-A simple performance overlay to add to your game. 
+A simple performance overlay to add to your game. It includes all of the base Godot Performance Monitors (FPS, Draw Calls, etc). They can all be found here: https://docs.godotengine.org/en/stable/classes/class_performance.html
 
 <img width="1718" height="844" alt="overlay3" src="https://github.com/user-attachments/assets/7abfa470-0196-4903-b14e-4533adf9774e" />
 
