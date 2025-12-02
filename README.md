@@ -16,4 +16,4 @@ When it's instantiated, you have some options on the right sidebar. Text Color, 
 
 <img width="312" height="580" alt="overlay1" src="https://github.com/user-attachments/assets/0182c02d-e22f-41c2-beb4-efb00197e42c" />
 
-If there are any issues, drop by my youtube channel or my twitch stream and let me know! twitch.tv/deadslap and https://www.youtube.com/@deadslapTV
+If there are any issues, drop by my youtube channel or my twitch stream and let me know! https://twitch.tv/deadslap and https://www.youtube.com/@deadslapTV
